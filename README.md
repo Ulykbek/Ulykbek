@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ulykbek
 - 🧑‍💻 interested in ITSEC
 - 🐞 currently learning to get rid of A...
-- 🥷🏻 I’m looking to collaborate on threat hunting/incident response
+- 🎡 I’m looking to collaborate on threat hunting/incident response
 - 📫 How to reach me: ulykbek@protonmail.com
 
 <!---
