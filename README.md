@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulykbek
-- 🧑‍💻 interested in ITSEC
-- 🐞 currently learning to get rid of A...
+- 🧑‍💻 interested in CYBERSEC
+- 🐞 currently at STS
 - 🎡 I’m looking to collaborate on threat hunting/incident response
 - 📫 How to reach me: ulykbek@protonmail.com
 
